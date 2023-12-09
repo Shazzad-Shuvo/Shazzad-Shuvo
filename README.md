@@ -40,7 +40,7 @@
 
 <h4 align="left">Tools:</h4>
 
-![My Skills](https://skillicons.dev/icons?i=github,firebase,vercel,netlify,figma)
+![My Skills](https://skillicons.dev/icons?i=vscode,github,firebase,vercel,netlify,figma)
 
 
 <h3 align="left">Github Stats:</h3>
