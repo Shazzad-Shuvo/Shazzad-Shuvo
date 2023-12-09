@@ -48,7 +48,7 @@
 ---
 
 <h4 align="left">1. Skill-Sphere</h4>
-<h4 align="left">Live Link: <a>(https://skill-sphere.web.app)</a></h4> [Skill-Sphere](https://skill-sphere.web.app)
+<h4 align="left">Live Link: <https://skill-sphere.web.app></h4>
 <p>An online learning & teaching platform for students & teachers</p>
 
 <h4 align="left">Tech & Tools Used:</h4>
