@@ -53,7 +53,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shazzad-shuvo&show_icons=true&locale=en&layout=compact" alt="shazzad-shuvo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazzad-shuvo&show_icons=true&locale=en" alt="shazzad-shuvo" /></p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazzad-shuvo&theme=vue"/>
 
 
