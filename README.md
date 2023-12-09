@@ -69,7 +69,8 @@
 
 
 <h4 align="left">2. Plate-Two-Plate</h4>
-<h4 align="left">Live Link: <a>https://plate-two-plate.web.app</a></h4> 
+<h4 align="left">Live Link:</h4> 
+<a href="https://plate-two-plate.web.app" target="_blank">Plate-Two-Plate</a>
 <p>A community food sharing web app</p>
 
 <h4 align="left">Tech & Tools Used:</h4>
