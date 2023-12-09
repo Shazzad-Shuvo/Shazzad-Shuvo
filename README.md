@@ -91,7 +91,8 @@
 
 
 <h4 align="left">3. Style Savvy</h4>
-<h4 align="left">Live Link: <a>https://style-savvy-600b6.web.app/</a></h4> 
+<h4 align="left">Live Link: </h4>
+<a href="https://style-savvy-600b6.web.app" target="_blank">Style Savvy</a>
 <p>An online fashion clothing and accessories brand shop</p>
 
 <h4 align="left">Tech & Tools Used:</h4>
