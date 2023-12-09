@@ -43,6 +43,70 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,github,firebase,vercel,netlify,figma)
 
 
+<h3 align="left">Projects:</h3>
+
+---
+
+<h4 align="left">1. Skill-Sphere</h4>
+<h4 align="left">Live Link: <a>https://skill-sphere.web.app</a></h4> 
+<p>An online learning & teaching platform for students & teachers</p>
+
+<h4 align="left">Tech & Tools Used:</h4>
+
+- <strong>Frontend:</strong> tailwind, daisyUI, React, react-router
+- <strong>Backend:</strong> node.js, express.js, mongoDB, firebase, json-web-token
+
+<h4 align="left">Features:</h4>
+
+- User can login/register on the site.
+- User can see popular courses, current website stats, become a teacher option, newsletter, coupon code section, feedback and collaborators.
+- User has to register to become a teacher upon acceptance by admin.
+- teacher can create classes and add assignments.
+- Students can enroll and pay for classes.
+- Enrolled students can see assignments.
+- Admin can monitor and control teachers and students.
+
+
+<h4 align="left">2. Plate-Two-Plate</h4>
+<h4 align="left">Live Link: <a>https://plate-two-plate.web.app</a></h4> 
+<p>A community food sharing web app</p>
+
+<h4 align="left">Tech & Tools Used:</h4>
+
+- <strong>Frontend:</strong> tailwind, daisyUI, React, react-router
+- <strong>Backend:</strong> node.js, express.js, mongoDB, firebase, json-web-token
+
+<h4 align="left">Features:</h4>
+
+- User can login/register on the site.
+- User can see featured foods, founders and sponsors on homepage.
+- User can see all available foods.
+- User has to register to request for food.
+- User can add food for donation.
+- User can request for food to be donated.
+- user can manage added foods and check status of requested food and/or cancel request if pending.
+- User can approve/decline food request of his/her added food.
+
+
+<h4 align="left">3. Style Savvy</h4>
+<h4 align="left">Live Link: <a>https://style-savvy-600b6.web.app/</a></h4> 
+<p>An online fashion clothing and accessories brand shop</p>
+
+<h4 align="left">Tech & Tools Used:</h4>
+
+- <strong>Frontend:</strong> tailwind, daisyUI, React, react-router
+- <strong>Backend:</strong> node.js, express.js, mongoDB, firebase
+
+<h4 align="left">Features:</h4>
+
+- User can login/register on the site.
+- User can see brands trending products and sponsors on homepage.
+- User can see all available products on a specific brand.
+- User has sign in/register to see details or add a product to cart.
+- User can see his/her cart status after finishing adding products to cart of their choice.
+- If user feels, he/she can remove product from cart.
+- Sellers can edit a specific product information of whichever product they added.
+
 <h3 align="left">Github Stats:</h3>
 
 ---
